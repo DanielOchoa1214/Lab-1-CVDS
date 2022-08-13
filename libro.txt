@@ -7,6 +7,8 @@ AUTORES:
 Ivan Sanchez
 Daniel Ochoa
 Wilmer Rodriguez
+Santiago Ospina
+Isabella Manrique
 
 
 
