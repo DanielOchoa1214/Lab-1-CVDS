@@ -21,3 +21,5 @@ Una imagen de Elden Ring porque aun no me lo he pasado xd:
 Y por ultimo diria que uno de mis legunajes de programacion favoritos seria Python, una de las grandes razones es una funcionalidad que ofrece, que son las listas por comprension, estas se ven asi:
 
 `[x for x in range(0, 4)]` Lo que creara una lista del 0 al 4 **En una sola linea!! :O**
+
+#### Git Branching
