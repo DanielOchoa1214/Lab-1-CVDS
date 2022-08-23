@@ -23,3 +23,5 @@ Y por ultimo diria que uno de mis legunajes de programacion favoritos seria Pyth
 `[x for x in range(0, 4)]` Lo que creara una lista del 0 al 4 **En una sola linea!! :O**
 
 #### Git Branching
+![](./Main.png)
+![](./Remote.png)
