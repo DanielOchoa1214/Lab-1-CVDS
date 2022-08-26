@@ -17,7 +17,12 @@ Platicando un poco sobre los videojuegos que me gustan, el que mas me ha marcado
 lo conocí gracias a mis hermanos que lo juegaban (y aun juegan). Mis hermanos y yo siempre hemos sido de la *alianza*: 
 ![](https://i.pinimg.com/originals/d0/33/90/d033904f276e356f1d411347bb219566.jpg)
 
+La codificación no es algo que se me de extremadamente bien pero aun asi me apasionan ciertas formas de resolver las cosas
 ```
-for alli in alliance
-  print("For the alliance")
+func = lambda x : True if x > 2 else False
 ```
+
+Lo anterior se le conoce como funciones anonimas o funciones lambda que son propias de python y me parecen de lo mas curioso
+
+![image](main.jpg)
+![image](remote.jpg)
